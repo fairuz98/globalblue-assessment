@@ -1,0 +1,6 @@
+@gb_assessment_HostAddress = http://localhost:5062
+
+GET {{gb_assessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

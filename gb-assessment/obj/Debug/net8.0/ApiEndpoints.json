@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "gb_assessment.Controllers.CalculatorController",
+    "Method": "Calculate",
+    "RelativePath": "api/Calculator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "gb_assessment.Controllers.CalculationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
