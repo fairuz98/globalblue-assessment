@@ -18,14 +18,18 @@ Setting up the project
 Commands used: 
 
 Clone the repository:
+
 1. git clone git@github.com:fairuz98/globalblue-assessment.git
 
 Navigate to the project:
+
 2. cd globalblue-assessment
 
 Install Dependencies:
+
 3. npm install
 
 Start the Development Server:
+
 4. npm start
 
